@@ -4,7 +4,7 @@ This application will gather and analyze the data of the FIFA 20 Career Mode pla
 The analyzed data consits of:
 - The total number of players in the database
 - The average age of all players
-- The number of each nationality of every player
+- The count of all nationalities
 - The count of all overall ratings
 - The count of all potential ratings
 - The average value in Euros of all players
