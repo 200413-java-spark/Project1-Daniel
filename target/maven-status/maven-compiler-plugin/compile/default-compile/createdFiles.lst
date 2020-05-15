@@ -1,0 +1,8 @@
+project1\spark\io\PlayersCSV.class
+project1\spark\io\SqlSparkRepository.class
+project1\spark\io\SparkLoadFile.class
+project1\spark\io\SqlDataSource.class
+project1\spark\MainServer$1.class
+project1\spark\MainServer.class
+project1\spark\RDDTransform.class
+project1\spark\Servlets\MainServlet.class
